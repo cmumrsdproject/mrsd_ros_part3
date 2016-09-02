@@ -1,0 +1,14 @@
+#########################################
+#### Camera Frame transform parameters
+#########################################
+
+# Translation (meters)
+cam_x: 0.12
+cam_y: 0.0
+cam_z: 0.05
+
+# Rotation (radians)
+# Assume Roll>Pitch>Yaw Convention
+cam_roll:  1.57
+cam_pitch: 1.57
+cam_yaw:   3.14

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<launch>
+
+<!-- Startup the node from part 1 -->
+
+	<node pkg="mrsd_ros_part3" type="robot_transform_node" name="robot_transform_node" output="screen"/>
+
+
+<!-- Load the yaml file located in config -->
+<!-- TODO -->
+
+<!-- Startup camera frame node -->
+<!-- TODO -->
+
+<!-- Startup pointcloud publisher node -->
+<!-- TODO -->
+
+
+</launch>
