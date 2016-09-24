@@ -7,7 +7,7 @@
 
 
 int main(int argc, char** argv){
-  ros::init(argc, argv, "robot_transform_node");
+  ros::init(argc, argv, "camera_frame_node");
 
   tf::TransformBroadcaster tf_broadcaster;
   geometry_msgs::TransformStamped camera_tf;
