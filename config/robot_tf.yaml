@@ -11,4 +11,4 @@ cam_z: 0.05
 # Assume Roll>Pitch>Yaw Convention
 cam_roll:  -1.57
 cam_pitch: 0
-cam_yaw:   -1.5
+cam_yaw:   -1.57
